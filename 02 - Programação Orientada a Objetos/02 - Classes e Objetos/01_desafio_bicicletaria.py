@@ -1,6 +1,6 @@
 class Bicicleta:
     # Construtor
-    # self - referencia explicita para o objeto
+    # self - referência explicita para o objeto
     def __init__(self, cor, modelo, ano, valor):
         # Atributos da classe
         self.cor = cor
